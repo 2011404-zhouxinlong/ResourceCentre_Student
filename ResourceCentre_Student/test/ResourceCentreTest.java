@@ -18,7 +18,7 @@ public class ResourceCentreTest {
 	public ResourceCentreTest() {
 		super();
 	}
-	
+	// Hello 
 	@Before
 	public void setUp() throws Exception {
 		// prepare test data
